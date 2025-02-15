@@ -1,4 +1,4 @@
-# Co-OPT_MESS: Co-optimization Model for Mobile Energy Storage (MESS)
+## Co-OPT_MESS: Co-optimization Model for Mobile Energy Storage System (MESS)
 
 
 ### Optimal mobile energy transportation: A Co-Optimization approach
